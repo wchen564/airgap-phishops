@@ -8,3 +8,4 @@ __pycache__/
 artifacts/*.json
 !artifacts/evaluation.json
 !artifacts/.gitkeep
+artifacts/demo/
