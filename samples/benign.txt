@@ -1,0 +1,14 @@
+From: Maya Chen <maya.chen@example.invalid>
+To: Jordan Lee <jordan.lee@example.invalid>
+Date: Mon, 20 Jul 2026 09:15:00 +0800
+Subject: Agenda for Tuesday's security tabletop
+Message-ID: <tabletop-20260720@example.invalid>
+
+Hi Jordan,
+
+Our security tabletop is Tuesday at 10:00 in Conference Room 4.
+Please review the agenda in the internal project folder before Monday.
+No reply with passwords or account details is needed.
+
+Thanks,
+Maya

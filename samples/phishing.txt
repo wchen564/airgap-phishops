@@ -1,0 +1,14 @@
+From: Payroll Support <payroll-alert@example.invalid>
+To: Jordan Lee <jordan.lee@example.invalid>
+Reply-To: identity-check@example.invalid
+Date: Mon, 20 Jul 2026 08:42:00 +0800
+Subject: URGENT: Payroll access expires today
+Message-ID: <payroll-review-7741@example.invalid>
+
+Your payroll profile will be suspended today.
+
+Confirm your identity at hxxps://payroll-review.example.invalid/login and enter
+your company password to prevent a delay to your salary. This verification must
+be completed within 30 minutes.
+
+Payroll Support

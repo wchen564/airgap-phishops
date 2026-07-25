@@ -1,0 +1,17 @@
+From: Alex Lee <alex.lee@example.invalid>
+To: Accounts Payable <ap@example.invalid>
+Date: Mon, 20 Jul 2026 11:05:00 +0800
+Subject: Question about beneficiary details for INV-1042
+Message-ID: <invoice-1042-question@example.invalid>
+
+Hello,
+
+The bank listed on invoice INV-1042 has changed. Could you confirm whether your
+team can update the beneficiary before Friday?
+
+Please do not transfer funds until we verify the change using the phone number
+already stored in your vendor record. I can provide a revised invoice after
+that check.
+
+Regards,
+Alex
